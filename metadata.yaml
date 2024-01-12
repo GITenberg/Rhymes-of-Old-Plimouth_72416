@@ -1,0 +1,28 @@
+_repo: Rhymes-of-Old-Plimouth_72416
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Randall, Herbert
+    gutenberg_agent_id: '56677'
+    url: http://www.gutenberg.org/2009/agents/56677
+description: ''
+gutenberg_issued: '2023-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72416'
+language: en
+pgterms:marc905: 20231117040829herbert
+pgterms:marc906: '1921'
+pgterms:marc907: US
+production_note: Steve Mattern, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aHartford, CT :$bHerbert Randall, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plymouth (Mass.) -- Poetry'
+- !lcc 'PS'
+- GITenberg
+title: Rhymes of Old Plimouth
+url: http://www.gutenberg.org/ebooks/72416
